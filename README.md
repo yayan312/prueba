@@ -9,10 +9,10 @@ Esto es un repositorio de prueba del curo **GF0604 Procesamiento de Dato Geográ
 1. Nombre \
 *Bryan Ramirez* <img src= "https://egw.news/uploads/cache/news/750/1673254263864-16x9.jpg" width="150">
 
-2. Nacionalidad \
+2. Nacionalidad\
 *Mexicano*
 
-3. Habilidades \
+3. Habilidades\
 - *Dormir*
 - *Comer*
 - *Cantar*
