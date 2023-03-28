@@ -12,7 +12,7 @@ Esto es un repositorio de prueba del curo **GF0604 Procesamiento de Dato Geográ
 2. Nacionalidad\
 *Mexicano*
 
-3. Habilidades\
+3. Habilidades
 - *Dormir*
 - *Comer*
 - *Cantar*
