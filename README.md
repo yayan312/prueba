@@ -18,7 +18,7 @@ Esto es un repositorio de prueba del curo **GF0604 Procesamiento de Dato Geográ
 - *Cantar*
 
 4. Lema
-> *Moriremos Todos:*  
+> *Moriremos Todos*  
 
 *Bryan , "Procesa Datos" (2023)*
 
